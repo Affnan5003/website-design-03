@@ -1,0 +1,31 @@
+@media (max-width: 768px){
+    h1{
+        font-size: 170%;
+    }
+    h2{
+        font-size:160% ;
+    }
+    h3{
+        font-size: 120%;
+        max-width: 90%;
+    }
+    p{
+
+        padding: 3%;
+        font-size: 90%;
+
+    }
+    img#codepic{
+        max-width: 160px;
+    }
+    .col-sm-4 #icon{
+        max-width: 110px;
+    }
+    .col-md-4 #icon{
+        max-width: 110px;
+        padding-bottom: 8%;
+    }
+    .social{
+        font-size: 200%;
+    }
+}
